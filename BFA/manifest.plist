@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://cdn.discordapp.com/attachments/1358371022339833936/1359779742584275095/BullfrogAssistant_2.2.5.ipa?ex=67f8b912&is=67f76792&hm=96b271644ff93fdcc25ba904b27af0ae680aeef3d3b687beee84d8d4907447f3&</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.flyingbullfrog.bullfrogassistant</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>BullfrogAssistant</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
